@@ -6,7 +6,7 @@
 
 ## Cloning this repo
 ```cmd
-> git clone https://github.com/senzgt/Rexon-Telegram-DDoS-Bot
+> git clone https://github.com/Pukimakpo/Pukimakpo.git
 > cd Rexon-Telegram-DDoS-Bot
 ```
 
