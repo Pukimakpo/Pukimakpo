@@ -1,10 +1,8 @@
 [
-  {
-    "password": "syafrial",
-    "whatsappNumber": "6289502101285"
-  },
-  {
-    "password": "syafrial",
-    "whatsappNumber": "089502101285"
-  }
+    {
+        "username": "syafrial",
+        "password": "12345",
+        "phone": "08123456789",
+        "randomNumber": "582931"
+    }
 ]
